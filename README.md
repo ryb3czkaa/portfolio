@@ -37,9 +37,9 @@ Nazywam się Beata Najman. Jestem studentką pierwszego roku informatykii. Chcia
   * [Raport błędów](https://docs.google.com/document/d/1ZISzOTKld-aWNoYcQ-_pigpsg5Gl0-3Qit610HNo1MY/edit?usp=sharing)
 
 # Ciekawe blogi
-  * [testerka.pl](https://testerka.pl/testy-modulowe-unit-tests/)
-  * [dlatesterow.pl](https://www.dlatesterow.pl/wiedza/)
-  * [testerzy.pl](https://testerzy.pl/)
+  * [Testerka.pl](https://testerka.pl/testy-modulowe-unit-tests/)
+  * [Dlatesterow.pl](https://www.dlatesterow.pl/wiedza/)
+  * [Testerzy.pl](https://testerzy.pl/)
 
 # Linkedin
   * [Mój profil](https://www.linkedin.com/in/beata-najman-38b060259/)
