@@ -29,12 +29,15 @@ Nazywam się Beata Najman. Jestem studentką pierwszego roku informatykii. Chcia
   * [Kurs SQLa](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
 
 # Moje prace
- ## Przypadki testowe  
+ ## Przypadki testowe  strony internetowej
+  [](https://scouts-test.futbolkolektyw.pl/pl/login?redirected=true)
   * [Test cases strony internetowej ](https://docs.google.com/spreadsheets/d/1qL4fguVcyDmhB2i_82XDzeEfbT_2r47Wi1T2W7GQhs8/edit?usp=sharing)
   * [Test cases strony internetowej](https://docs.google.com/spreadsheets/d/1V_Z4dVs7x910uNYzm2Vrh0vlN5T-AyojNbtz5joXqhI/edit?usp=sharing)
+ ## Przypadki testowe aplikacji mobilnej 
+ [Focusly: Mindfulness](https://play.google.com/store/apps/details?id=co.focusly&hl=pl&gl=US)
   * [Test cases aplikacji mobilnej](https://docs.google.com/spreadsheets/d/18qz1YSMCiSWTeZOMi3fu3TF_l8JTxbM1C-irBiOsKmc/edit?usp=sharing)
  ## Zgłoszenia błędów
-  * [Raport błędów](https://docs.google.com/document/d/1ZISzOTKld-aWNoYcQ-_pigpsg5Gl0-3Qit610HNo1MY/edit?usp=sharing)
+  * [Raport z testów](../https://docs.google.com/document/d/1ZISzOTKld-aWNoYcQ-_pigpsg5Gl0-3Qit610HNo1MY/edit?usp=sharing)
 
 # Ciekawe blogi
   * [Testerka.pl](https://testerka.pl/testy-modulowe-unit-tests/)
