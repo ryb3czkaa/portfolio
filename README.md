@@ -45,5 +45,5 @@ Nazywam się Beata Najman. Jestem studentką pierwszego roku informatykii. Chcia
   * [Testerzy.pl](https://testerzy.pl/)
 
 # Linkedin
-  * [Mój profil](https://www.linkedin.com/in/beata-najman-38b060259/)
+  * [Mój profil](https://www.linkedin.com/in/beata-najman/)
 
